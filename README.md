@@ -111,6 +111,17 @@ python main.py
 - Tests automatizados
 - Interfaz gráfica o API REST
 
+---
+
+👤 Autor
+
+Proyecto desarrollado por Javier Frances
+
+GitHub: JaviFrances7
+
+LinkedIn: https://es.linkedin.com/in/javier-frances-sanz
+
+
 
 
 
