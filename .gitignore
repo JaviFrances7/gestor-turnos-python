@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos del sistema
+.DS_Store
+
+# Datos locales
+data/turnos.json
